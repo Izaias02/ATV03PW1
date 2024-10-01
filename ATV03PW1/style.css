@@ -1,0 +1,93 @@
+
+#logo {
+text-align: left;
+}
+header{
+text-align: center;
+align-items: center;
+border-bottom: 12px;
+margin-bottom: 5px;
+}
+body{
+    margin-top: 110px;
+    padding: 15px;
+    border-sizing: border-box;
+    padding: 12px;   
+}
+
+
+
+#imagens{
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    display: flex;
+
+}
+#inicial{
+}
+@keyframes fade{
+   0%,100%{opacity: 1;}
+
+   50%{ opacity: 0; }
+}
+#estrela{
+margin-top: 0;
+margin-left: 0;
+position: relative;
+animation: fade 10s linear infinite;
+}
+#azul{
+margin-top: 110px;
+align-items: center;
+text-align: center;
+position: absolute;
+animation: fade 8s linear infinite;
+
+}
+#branco{
+    margin-top: 110px;
+    left: 70px;
+    position: absolute;
+    animation: fade 8s linear infinite;
+}
+#preto{
+    margin-top: 110px;
+    left: 70px;
+    position: absolute;
+    animation: fade 8s linear infinite;
+}
+#rosa{
+    margin-top: 110px;
+    left: 70px;
+    position: absolute;
+    animation: fade 8s linear infinite;
+}
+#verde{
+    margin-top: 110px;
+    left: 70px;
+    position: absolute;
+    animation: fade 8s linear infinite;
+}
+#cinza{
+    margin-top: 110px;
+    left: 70px;
+    position: absolute;
+    animation: fade 8s linear infinite;
+}
+#descricao{
+    margin-top: 110px;
+    left: 70px;
+    position: absolute;
+    animation: fade 8s linear infinite;
+}
+#valor{
+text-align: center;
+align-items: center;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+footer{
+    text-align: center;
+
+}
